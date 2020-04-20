@@ -1,21 +1,21 @@
 import React from "react";
-import Ticket from "./Ticket";
+import Post from "./Post";
 
-const masterTicketList = [
+const masterPostList = [
   {
-    names: 'Thato and Haley',
-    location: '3A',
-    issue: 'Prop types are throwing an error'
+    title: 'Happy birthday!',
+    name: 'Kim Seokjin',
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   },
   {
-    names: 'Sleater and Kinney',
-    location: '4B',
-    issue: 'Prop types are throwing an error.'
+    title: 'TGIF',
+    name: 'Kim Taehyung',
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   },
   {
-    names: 'Imani & Jacob',
-    location: '9F',
-    issue: 'Child component isn\'t rendering.'
+    title: 'Try this Recipe!',
+    name: 'Min Yoongi',
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   }
 ];
 

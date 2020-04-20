@@ -114,5 +114,10 @@ main span {
   cursor: pointer;
 }
 
+button {
+  padding: 2em;
+  margin: 1em;
+}
+
 
 

@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 } */
+
+@color-1st: #ffea92;
+@color-2nd: #5bc995;
+@menu-width-desktop: 240px;
+@menu-width-tablet: 90px;
+@menu-width-smartphone: 230px;
+
+body {
+  background-color: #ffea92;
+  margin:0;
+  padding-left: 240px;
+}
+
+
